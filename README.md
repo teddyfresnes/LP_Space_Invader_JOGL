@@ -2,8 +2,8 @@
 
 ## Description
 Simple Space Invader implémenté en Java avec JOGL
-- Contrôle du vaisseau spatial avec les touches directionnelles
-- Tir de missiles avec la barre d'espace
+- Contrôle fluide du vaisseau spatial avec les touches directionnelles
+- Tir de missiles avec la barre d'espace à intervalle régulier
 - Ennemis qui se déplacent de gauche à droite et descende à chaque collision de plus en plus rapidement
 - Affichage d'un message de fin de jeu
 
